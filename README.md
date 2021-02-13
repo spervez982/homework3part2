@@ -1,4 +1,4 @@
-# homework3part2
+# homework3part1
 positive and negative
 import java.util.Scanner; // Import the Scanner class
 
